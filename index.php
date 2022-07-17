@@ -23,10 +23,10 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>Congratulations! You have 1st time show</h1>
+        <h1>Congrats! Time to show JenkinsJob</h1>
         <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
-        <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
+        <p>This environment is launched with Elastic Beanstalk PHP Platform from JenkinsJob</p>
     </section>
 
     <section class="instructions">
